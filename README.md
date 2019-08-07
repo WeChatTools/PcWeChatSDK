@@ -4,11 +4,9 @@
 ## 功能列表
 
 ### 基础信息类
-1. 获取个人信息
-2. 获取单个好友信息
-3. 获取好友信息
-4. 获取群组信息
-5. 获取单个好友信息
-6. 获取单个好友信息
+![](https://github.com/WeChatTools/PcWeChatSDK/blob/master/wx1.jpg)
+
+### Demo
+![](https://raw.githubusercontent.com/WeChatTools/PcWeChatSDK/master/02.png)
 
 
